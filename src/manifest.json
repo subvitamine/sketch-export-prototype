@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Export Prototype pour Hub R2",
+      "identifier": "hub-export-prototype.export-json-identifier",
+      "script": "./export-json.js"
+    }
+  ],
+  "menu": {
+    "title": "Hub Export",
+    "items": [
+      "hub-export-prototype.export-json-identifier"
+    ]
+  }
+}
