@@ -1,6 +1,6 @@
 # Hub Export Prototype
 
-This plugin for Sketch has been made to produice JSON and PNG you can publish on the Subvitamine's Hub as an Asset Zip.
+This plugin for Sketch has been made to produce JSON and PNG you can publish on the Subvitamine's Hub as an Asset Zip.
 
 ## Installation
 
